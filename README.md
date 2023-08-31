@@ -8,7 +8,7 @@ The script has functions such as:
 - Creating private keys in the required number to your mnemonic  
 - Creation of 1 private key for each mnemonic       
 
-*The entire result will be in the **result** folder*
+***The entire result will be in the result folder***
 
 ## Installation
 Must have NodeJS version 18+, NPM 9+ installed
